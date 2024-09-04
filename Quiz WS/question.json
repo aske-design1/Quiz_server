@@ -1,0 +1,14 @@
+{
+    "questions": {
+        "1": "Insert Your Question Here",
+        "2": "Insert Your Question Here"
+    },
+    "answers": {
+        "1": ["Insert Answer 1 here", "Insert Answer 2 here"],
+        "2": ["Insert Answer 1 here", "Insert Answer 2 here", "Insert Answer 3 here"]
+    },
+    "correct_answers": {
+        "1": "The Correct answer here",
+        "2": "The Correct answer here"
+    }
+}
